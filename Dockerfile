@@ -1,0 +1,1 @@
+FROM jfschaefer/glif:latest
