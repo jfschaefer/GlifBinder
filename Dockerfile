@@ -1,1 +1,1 @@
-FROM jfschaefer/glif:1.3
+FROM jfschaefer/glif:latest
